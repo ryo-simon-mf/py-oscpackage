@@ -7,7 +7,7 @@
 - pythonosc
 
 ## Install
-```bash
+```
 $ git clone https://github.com/ryo-simon-mf/py-oscpackage.git
 $ cd py-oscpackage
 $ pip3 install -r requirements.txt
@@ -15,14 +15,17 @@ $ pip3 install -r requirements.txt
 
 ## Demo
 ### oscClient_Simple.py
-```python
+```
 $ python oscClient_Simple.py --ip 127.0.0.1 --port 8000 --message /default
 IP: 127.0.0.1 PORT: 8000 /default
 
 Enter Message:
 ```
 
-### oscClient_Multi.py
+
+<!-- 
+### oscClient_Multi.py 
+-->
  
 
 ## Authors
