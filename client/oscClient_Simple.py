@@ -1,6 +1,5 @@
 import sys
 import argparse
-import random
 from pythonosc import udp_client
 
 def main():
