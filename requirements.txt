@@ -1,1 +1,1 @@
-pythonosc
+python-osc
