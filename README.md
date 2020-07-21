@@ -27,9 +27,13 @@ Enter Message:
 ### oscClient_Multi.py 
 -->
  
-<!-- 
+
 ### oscOneshot.py 
--->
+```
+$ python oscOneshot.py --ip 127.0.0.1 --port 8000 --message /default --send HelloWorld
+
+```
+
 
 ## Authors
 ryo-simon-mf
