@@ -27,8 +27,11 @@ Enter Message:
 ### oscClient_Multi.py 
 -->
  
+<!-- 
+### oscOneshot.py 
+-->
 
 ## Authors
 ryo-simon-mf
 
-Mail:ryosimon1108[at]gmail.com
+Mail: ryosimon1108[at]gmail.com
