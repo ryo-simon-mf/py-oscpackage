@@ -1,7 +1,5 @@
 import sys
 import argparse
-import random
-import time
 import getch
 from pythonosc import osc_server
 from pythonosc import dispatcher
