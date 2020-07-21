@@ -30,7 +30,7 @@ Enter Message:
 
 ### oscOneshot.py 
 ```
-$ python oscOneshot.py --ip 127.0.0.1 --port 8000 --message /default --send HelloWorld
+$ python oscOneshot.py --ip 127.0.0.1 --port 8000 --message /default --sent HelloWorld
 
 ```
 
