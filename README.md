@@ -6,7 +6,7 @@
 - sys
 - argparse
 -->
-- pythonosc
+- python-osc
 
 ## Install
 ```
